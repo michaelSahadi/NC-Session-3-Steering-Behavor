@@ -1,4 +1,4 @@
-![Preview](Images/preview.jpg)
+![Preview](Images/dino-preview.png)
 
 # NC-Session-3-Steering-Behavor
 
